@@ -1,4 +1,5 @@
-# Code by Matt Harris for putting a ggmap basemap on a ggplot with sf data
+# Code by Matt Harris @mrecos for Urban Spatial @urbanspatial
+# for putting a ggmap basemap on a ggplot with sf data
 
 #First libraries and a key function
 
